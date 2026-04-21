@@ -2,5 +2,5 @@
 using namespace std;
 
 class Mhasiswa{
-
+public :
 };
