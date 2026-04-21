@@ -5,4 +5,5 @@ class Mhasiswa{
 public :
 int nim;
 string nama;
+float nilai;
 };
