@@ -12,4 +12,13 @@ void printData(){
     cout << "Nama : " << nama << endl;
     cout << "Nilai : " << nilai << endl;
 }
-};
+}; 
+
+int main (){
+    Mhasiswa mhs;//object
+    mhs.nim = 2022;
+    mhs.nama = "Abra";
+    mhs.nilai = 90.5;
+    
+    mhs.printData();
+}
